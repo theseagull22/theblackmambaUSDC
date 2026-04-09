@@ -1,1 +1,0 @@
-"""theblackmambaUSDC app package."""
